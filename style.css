@@ -1,0 +1,35 @@
+body {
+  background: url('https://static.vecteezy.com/system/resources/previews/004/686/772/non_2x/doodle-freehand-drawing-of-colombia-map-free-vector.jpg') no-repeat center center fixed;
+  background-size: cover;}
+h1 {
+  background-color: #FF4C4C;
+  color: #433D8B;
+  font-size: 70px;}
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 15px;
+  margin-left: 30px;
+  background-color: #77E4C8;
+  .merriweather-light{
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+.primero {
+  background-color: #399918;
+  border: 6px solid blue;
+  border-top-style: dotted;
+  border-right-style: dotted;
+  border-bottom-style: dotted;
+  border-left-style: dotted;
+  padding: 20px;}
+.segundo {
+  background-color: #4A249D;
+  border: 3px solid #000000;
+  padding: 45px;}
+a {
+  color: #EB3678;
+text-decoration: none;}
+/*comentario+/
+a:hover {
+  color: #FB773C;}
